@@ -56,6 +56,16 @@ section{
 }
 .img-2{
     width: 80%;
-   
-
+}
+.experience{
+    display: flex;
+}
+.developer{
+    padding: 20px 40px;
+    width: 40%;
+    margin: 30px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 40px gray;
+    border-image: liniear-gradient(tomato, red);
+    border-image-slice: ;
 }
